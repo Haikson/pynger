@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='pynger',
-    version='0.1',
+    version='0.2',
     packages=['pynger'],
     url='http://www.haikson.com/myprojects/pynger/',
     license='Apache 2',
@@ -29,5 +29,5 @@ setup(
         # that you indicate whether you support Python 2, Python 3 or both.
         'Programming Language :: Python :: 2.7',
     ],
-    description=''
+    description='According to the search engines to change the file saytmap.xml'
 )
